@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Image Replacer"
+  short_description: "Batch replace hero product images inside poster wireframes."
+  default_prompt: "Replace the hero product in images under wireframes using images from input_product and save the results to output_product."
